@@ -9,4 +9,4 @@ I'm an aspiring web developer and  I hack together words hoping that they'll mak
 
 ***
 
-Who I am after all my tests pass
+How I feel about myself after all my tests pass
