@@ -12,11 +12,11 @@ was ultimately the reason why I kept trying to learn. Unfortunately, I lost that
 game when my computer was stolen. Which brings me to the first thing I should
 have gotten when I started, a way to backup my files. 
 
-[Github](github.com) is the most popular
+[Github](http://github.com) is the most popular
 choice from but I was always afraid to show really bad code or
 accidently sharing something personal like passwords or api keys. That's the reason that I
 put off starting one for a long time. I became more diligent about backups after losing all the tutorial applications
-and links that I was saving. Around that time, I created an account at [Bitbucket](bitbucket.org) because it allowed free
+and links that I was saving. Around that time, I created an account at [Bitbucket](http://bitbucket.org) because it allowed free
 private repositories and it helped me get started using [git](http://gitref.org/) 
 commands. Starting with Github first would have helped me get over the hump about
 sharing or talking with other programmers but if that barrier is too big at the
@@ -30,7 +30,7 @@ beginning. A major part of that was connecting and using a Database that wasn't
 [sqlite](https://sqlite.org/) along with the other configurations. 
 I knew enough about SQL and databases in general 
 to work with it in a Rails app but that was different from having
-to configure it outside a development environment. For demos and trying to deploy the first time, [heroku](heroku.com)
+to configure it outside a development environment. For demos and trying to deploy the first time, [heroku](http://heroku.com)
 is my number one choice because it was the most painless for me, the most that I
 had to do was extract out some keys to environment variables and add a
 different Ruby server besides WEBrick. Their articles
